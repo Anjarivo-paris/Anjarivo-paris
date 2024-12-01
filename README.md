@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Anjarivo-paris
+- 👋 Hi, I’m @Anjarivo
 - 👀 I’m interested in Scrum/RAG/LLM/GenAI
 - 🌱 I’m currently learning Python/RAG/LLM/GenAI
 - 💞️ I’m looking to collaborate on RAG multi-modal project
